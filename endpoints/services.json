@@ -1,0 +1,120 @@
+{
+  "services" : [
+    {
+      "id" : 1,
+      "name" : "Cloud + Platforms",
+      "image" : "https://cdn.kinandcarta.com/-/media-assets/images/kincarta/about-us/about--connections-bring-clarity.jpg?as=0&iar=0&w=1920&rev=cec90d9a44354ac4898c6417bd91eaa6&extension=webp&hash=4ECF23B82668B2BBCA5C50976F782B5E",
+      "description" : "Your cloud investment is the core of your digital transformation, enabling the organisation to create long-term resilience. It’s how you modernise your mission-critical applications for everyday operations and create ambitious products and experiences that resonate today and adapt for tomorrow.\n\nOur experts can help you create platforms that support the acceleration of sustainable and innovative business outcomes. While delivering at the speed your customers demand.",
+      "solutions" : [
+        {
+           "title" : "Cloud and Platform services strategy",
+           "desc" : "Realise the full benefits of the cloud by matching your cloud strategy to your enterprise business strategy. Assess the tradeoffs, establish the right governance, build the right services, and strike the right balance of innovation and risk."
+        },
+        {
+          "title" : "Cloud modernisation",
+          "desc" : "Turn your cloud workloads into an opportunity to change the way your organisation operates for the better. We are the transformation partner that helps you embrace cloud-native modernisation by aligning your people and processes with the agile, all-inclusive possibilities it holds in store."
+        },
+        {
+          "title" : "Technical platform implementation and modernisation",
+          "desc" : "Put paid to the excessive costs of legacy platforms with an implementation plan that prioritises the long-term efficiency of both cost and resource. Our technical experts work with you to understand your most pressing areas for improvement, from information security to CI/CD automation."
+        },
+        {
+          "title" : "Connected IoT platform",
+          "desc" : "Build agility and scalability into your organisation with a connected IoT platform that gives you a competitive advantage in a digital-first world. We ensure that data and insights guide your strategy so you can deliver exceptional experiences at pace, whenever and however your customers engage with you."
+        },
+        {
+          "title" : "Cloud and Platform managed services",
+          "desc" : "Ensure business continuity with Managed Services that leverage Cloud and Platform expertise to help you run and grow as a modern organisation. We don’t lift and shift and leave you in the lurch; we work with you to upskill and hire the right talent, scale up and down as market demands shift, and innovate with cutting-edge technologies when it’s time to evolve."
+        }
+      ]
+
+     },
+    {
+      "id" : 2,
+      "name" : "Data + AI",
+      "image" : "https://cdn.kinandcarta.com/-/media-assets/images/kincarta/services/data-and-ai/generative-ai/generativeai-hero.jpg?as=0&iar=0&w=2800&rev=d9e72cd3f2ad44378a105e2e936f24c2&extension=webp&hash=929A01F05AB8AE51DEB70600C6BD86E6",
+      "description" : "Businesses are collecting more data but there is tension around access, use, governance and ultimately value.\n\nTo unlock the value of data, you need to start with a strong data foundation. This will enable you to build trust in the quality of your data, which will in turn accurately inform new products and services, and empower your business to become data-driven.\n\nAt Kin + Carta, we'll help you get your data house in order. We'll partner with you to craft the right data strategy and arm you with an expert team to take you through your data maturity journey. \n\nThis is how we'll help you own your data and technology future.",
+      "solutions" : [
+        {
+          "title" : "Data Foundations",
+          "desc" : "Poor data foundations undermine trust in data and lead to unrealized value. We can help you uncover and cleanse the information that’s needed to fuel your success. Octain™, our industry-leading AIaaS platform, provides advanced capabilities to understand and cleanse your data, then generate predictions and recommendations to match priorities."
+        },
+        {
+          "title" : "Analytics & Insights",
+          "desc" : "Put data in the hands of your decision-makers with a reporting suite that drives self-service and actionability. We can help you find the signal in the noise to reveal key insights that move your business forward."
+        },
+        {
+          "title" : "Data COE & Enablement",
+          "desc" : "Supercharge your data, AI and analytics capabilities with a centralized execution model. Increase throughput, speed to decision-making and automation, add new capabilities and improve your stakeholder satisfaction. We can help you build process efficiencies, quality assurance, and raise the bar of what your team can deliver."
+        },
+        {
+          "title" : "Data Products",
+          "desc" : "Build custom data products tailored to your business use case. We can help you give stakeholders the competitive edge they need to optimize their business domains. Everything is developed in your environment in a way that’s flexible and scalable while adhering to your standards and requirements."
+        },
+        {
+          "title" : "AI & Machine Learning",
+          "desc" : "Make smarter decisions automatically, personalize customer experiences and optimize operations with AI tech applied strategically to the places it matters most. We’ll help you invest in the tech that makes the difference."
+        },
+        {
+          "title" : "Generative AI",
+          "desc" : "The whole world seems to be talking about ChatGPT. Generative AI has been with us for some time, but advanced natural language processing systems offer more possibilities than ever. So what does it mean for your organization?\n\nGenerative AI is a tool that needs to be harnessed as part of an overall solution. It requires the right data, needs to be cleansed of bias and approached as an opportunity to empower human beings, not replace them. At Kin + Carta we cut through the hype and use this technology to provide you with solutions that make your organization work better."
+        }
+      ]
+
+    },
+    {
+      "id" : 3,
+      "name" : "Experience + Product",
+      "image" : "https://cdn.kinandcarta.com/-/media-assets/images/kincarta/services/experience-and-product/commerce/commerce-hero.jpg?as=0&iar=0&w=2800&rev=ac24831db7094470afba881f2c112d7c&extension=webp&hash=0516DA64D981780C2F1F3E179A3B52A5",
+      "description" : "In the past decade, digital transformation became the foundation of how organisations engaged with and supported their customers. However, a failure to join up data across the customer journey has resulted in experiences that fall short of expectation. Success today depends on a truly differentiated omni-channel experience. One that is relevant, conversational and frictionless. These are what we call, Intelligent Experiences.\n\nCombining data with powerful yet sustainable design, Intelligent Experiences identify the moments that matter. The result is customer loyalty, advocacy, and ultimately increased profitability.",
+      "solutions" : [
+        {
+          "title" : "Digital Product Innovation",
+          "desc" : "Transform your customer's journey with outcome-driven products that elevate their experience."
+        },
+        {
+          "title" : "Experience Platform Innovation",
+          "desc" : "Accelerate the value from the platforms you invest in to deliver to the market much faster than a custom build."
+        },
+        {
+          "title" : "Connected Commerce",
+          "desc" : "Customer expectations are sky high and online experiences need to deliver more, better and faster. Sales and loyalty will be captured by personalization, intelligent recommendations, accurate search, simpler purchases and an ecosystem that connects everything up, including your brick and mortar operations.\n\nAt Kin + Carta we’ve been working in this space since the beginning. Our experts can help you design, build, integrate, optimize and support commerce solutions that deliver real commercial value. Together we can navigate the challenges presented by today’s consumers and buyers and make sense of the multitude of products and options available. Together we can create the intelligent moments that matter to your customers."
+        },
+        {
+          "title" : "Scaled Digital Delivery",
+          "desc" : "Deliver with high-performing team models that are made up by the best cross-functional experts in the industry to achieve immediate growth and leave your organisation for the better."
+        }
+      ]
+
+    },
+    {
+      "id" : 4,
+      "name" : "Strategy + Innovation",
+      "image" : "https://cdn.kinandcarta.com/-/media-assets/images/kincarta/services/experience-and-product/commerce/commerce-hero.jpg?as=0&iar=0&w=2800&rev=ac24831db7094470afba881f2c112d7c&extension=webp&hash=0516DA64D981780C2F1F3E179A3B52A5",
+      "description" : "Wherever you are on your digital journey, our human-centered approach to transformation and innovation will help you succeed. From innovating business models to creating flexible, fast-moving operating models, we help clients imagine their digital future, enable their organization for success, and ensure sustainable growth. And because we know that good strategy is good execution, we’ll help you make your vision a reality.",
+      "solutions" : [
+        {
+          "title" : "Business model innovation",
+          "desc" : "Imagine a profitable, sustainable future for your firm. Chart the course for long-term commercial, experiential, and technical growth."
+        },
+        {
+          "title" : "Experience & Product strategy",
+          "desc" : "Take a customer-centric, data-driven approach to developing personalized, connected experiences that capture customer attention, drive transactions, and increase productivity."
+        },
+        {
+          "title" : "Data strategy",
+          "desc" : "Finally realize the value in your data by treating Data as a Product. Determine the insights you need from data products, build the foundational infrastructure needed for those products, and foster a data-driven culture."
+        },
+        {
+          "title" : "Cloud strategy",
+          "desc" : "Realize the full benefits of the cloud by matching your cloud strategy to your enterprise business strategy. Assess the tradeoffs, establish the right governance, build the right services, and strike the right balance of innovation and risk."
+        },
+        {
+          "title" : "Digital operating model",
+          "desc" : "De-risk your digital transformation. Proactively identify breakdowns in the people and process components of your plan. Design new operating models, develop new capabilities, and accelerate adoption."
+        }
+      ]
+    }
+  ]
+}
+
